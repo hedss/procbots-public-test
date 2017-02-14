@@ -1,0 +1,15 @@
+{
+  "name": "tutorepo",
+  "version": "1.0.0",
+  "description": "Tutorial repo",
+  "main": "./index.js",
+  "homepage": "https://github.com/hedss/tutorepo",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/hedss/tutorepo"
+  },
+  "author": "Heds Simons <hedley@resin.io",
+  "license": "Apache 2.0",
+  "dependencies": {
+  },
+}
