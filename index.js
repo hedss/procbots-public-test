@@ -1,2 +1,2 @@
-console.log('Public repo merge');
+console.log('A new line!');
 
