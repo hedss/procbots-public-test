@@ -8,6 +8,9 @@
     "type": "git",
     "url": "git@github.com/hedss/tutorepo"
   },
+  "scripts": {
+      "test": "node index.js"
+  },
   "author": "Heds Simons <hedley@resin.io",
   "license": "Apache 2.0",
   "dependencies": {}
