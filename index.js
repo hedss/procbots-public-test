@@ -1,1 +1,1 @@
-console.log('A new line! - admin master merge 2');
+sconsole.log('A new line!');
